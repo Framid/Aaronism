@@ -1,0 +1,41 @@
+Duelling Based Competitve kind of Game.
+In a Star Warsy universe penis yes
+
+Combat System:
+A mix Between For Honor and Mb2
+
+The attacking works with direction attacking via buttons from the keyboard, w is stab a is right swing d is left swing s is forward swing.
+and the same thing is done by blocking, going into block stance by HOLDING right click and block the swings in the same way you attack them.
+
+Different attack varieties like speed attacks and heavy attacks
+which should be both risky for you and the opponent to do to add more variety 
+and more style switching
+
+Characters : 
+
+We wil have a Character Creator like in Swtor where you make your own character and you could also make them look like your favorite star wars
+Heros and Villians.
+
+The character customization should have two patterns male and female with different head,torso,legs options as seen in Jedi Knight Jedi Academy. This should allow for an easy to design customization mode.
+
+Design in general: 
+Should be something like star wars but influenced by our own ideas and try to make it not too much star warsish. 
+
+Main concept should be a science fiction world inspired by Ralph Mcquarie (concept artist behind STAR WARS). The idea of a very atmospheric world, that feels used/worn out yet futuristic. 
+
+Mapping: 
+There should be a waiting hall where all players are, and you can invite them to a duel a 1v1, a 2v2, a 1v2.
+And Once your opponents Accept the invitation, you'll be send into the duelling arena. Where people can watch you from seats.
+Tournement will only have one arena.
+
+The server will have as much arenas as there is players meaning
+2 players = 1 arena.
+
+Game modes: Competitive Arena mode -The players will work their way to arena 1 meaning that EXAMPLE : there are 10 arenas and the new player will be put into arena 10 meaning level 10 from server
+and level 1 will be the most skillfull one, and you need to defeat all players in all 9 arenas to get to arena 1. Quick note - Arena and Open duel should have different types of maps/game modes.
+
+Normal Duel Mode -The players will have freedom to do as they please in this mode, duel whoever they want, train, and relax. The map will be design to allow more interaction with environment than the competitive 
+map.
+
+
+

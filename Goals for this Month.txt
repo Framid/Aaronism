@@ -1,0 +1,3 @@
+1. Learning the Basics of the Unreal Engine. //understanding
+2. Adding a Model and Lightsaber //So we can work on the combat and see models etc.
+3. Making Multiplayer. //So we can Test everything together.
